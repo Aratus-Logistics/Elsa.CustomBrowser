@@ -1,0 +1,15 @@
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\CustomBrowser.dll
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\CustomBrowser.pdb
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.App.xaml.g.cs
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.Views.CustomBrowser.xaml.g.cs
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.Popup.UrlPopupPage.xaml.g.cs
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.dll
+C:\Users\BrBo\documents\visual studio 2017\Projects\AratusLogistics.ScannerSoftware\CustomBrowser\CustomBrowser\obj\Debug\CustomBrowser.pdb

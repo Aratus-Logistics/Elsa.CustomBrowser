@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomBrowser.Views.CustomBrowser"
+             xmlns:local="clr-namespace:CustomBrowser.Views;assembly=CustomBrowser">
+    <ContentPage.Content>
+        <local:AuthWebView x:Name="webview_mainApplication"></local:AuthWebView>
+    </ContentPage.Content>
+</ContentPage>
